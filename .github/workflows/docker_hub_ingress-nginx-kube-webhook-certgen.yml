@@ -16,7 +16,7 @@ jobs:
         include:
           - podname: ingress-nginx-kube-webhook-certgen
             version: v1.1.1
-            hub_name: xyz349925756
+            hub_name: 670894271
             
     steps:
       - name: 准备...

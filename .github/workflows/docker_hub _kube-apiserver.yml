@@ -16,7 +16,7 @@ jobs:
         include:
           - podname: kube-apiserver
             version: v1.23.5
-            hub_name: xyz349925756
+            hub_name: 670894271
             
     steps:
       - name: 准备...

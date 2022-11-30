@@ -16,7 +16,7 @@ jobs:
         include:
           - podname: coredns
             version: v1.8.6
-            hub_name: xyz349925756
+            hub_name: 670894261
             
     steps:
       - name: 准备...

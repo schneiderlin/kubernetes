@@ -18,7 +18,7 @@ jobs:
         include:
           - podname: metrics-server
             version: v0.5.2      
-            hub_name: xyz349925756
+            hub_name: 670894271
             
     steps:
       - name: 准备...
